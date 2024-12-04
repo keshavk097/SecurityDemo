@@ -1,0 +1,2 @@
+INSERT INTO product (name, description, price, quantity) VALUES ( 'Laptop', 'A high-end laptop', 1200.00, 10);
+INSERT INTO product (name, description, price, quantity) VALUES ( 'Smartphone', 'Latest smartphone model', 800.00, 25);
